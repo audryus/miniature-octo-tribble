@@ -1,0 +1,10 @@
+app:
+  name: 'miniature-octo-tribble'
+  version: '0.1'
+
+http:
+  port: '8080'
+
+mongo:
+  url: 'mongodb://root:example@localhost:27017/'
+  database: 'tribble'
